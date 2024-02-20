@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2332048532399859631
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8302024439949994584}
+  - component: {fileID: 3715328627443609906}
+  m_Layer: 0
+  m_Name: InputManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8302024439949994584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332048532399859631}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3715328627443609906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332048532399859631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad85e2ee49764fd38f95142ee753064, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  debugMode: 1
+  treePrefab: {fileID: 3751461765938505807, guid: 09b3b5b8c1f194c8796185b42e65793f, type: 3}
+  victoryTreePrefab: {fileID: 3751461765938505807, guid: 954e56b9e95f04822bf9b8bdcfcba033, type: 3}
+  startTree: {fileID: 0}
+  canChooseNewSeed: 0
+  minZoom: 8
+  maxZoom: 15
+  threeStarSaplings: 0
+  twoStarSaplings: 0
+  winPanel: {fileID: 8206278330031267500, guid: 06d6436f2fc49479b8acaed44266a359, type: 3}
+  thanksForPlayingPanel: {fileID: 8206278330031267500, guid: dda167c6f7bde4484a19961bee5e892f, type: 3}

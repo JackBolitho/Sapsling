@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Title.unity
+    guid: de3cec01a0b7b4e129bff4ea1e106e56
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/LevelSelect.unity
+    guid: d116fabecfdd849d5a1a0b2fb5b6e300
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level1.unity
+    guid: dd040f2b0a5264a8382221e0ce70f1e7
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level2.unity
+    guid: 58db91e15da6b4d40acef500ddba6b56
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level3.unity
+    guid: d928f03705eca4aa79da5eccff10296a
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level4.unity
+    guid: cc4bc4b8065a54b2a880d9ed5fb1d8be
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level5.unity
+    guid: 153665366f3bd42d7bf3808fd55755ff
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level6.unity
+    guid: 0043df32cfb254ef680ce4b0bdf86409
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level7.unity
+    guid: 4169ac25847f54396bf07f48eea4067d
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level8.unity
+    guid: 89c6ea6ad0c804ac6be4cfa85f8bb4ea
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level9.unity
+    guid: d8b6df9611d8241b9a1bd0451f3569b0
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level10.unity
+    guid: c4fd486cb19bc4bf2bfa8dd49b73409e
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level11.unity
+    guid: 9a35f541f9da840c6986ed8fd09e530d
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level12.unity
+    guid: 4d52b169d47984829ba029c44a9b8d4a
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level13.unity
+    guid: 53ad6d7a1b0a444f5bae0da23fc9113c
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level14.unity
+    guid: 835cace55dd6d487db46bd230137d5d9
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level15.unity
+    guid: 573c6059ed2fd4296bf776b273230027
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level16.unity
+    guid: b39666f57ae404397bb99e7dbda45501
+  - enabled: 1
+    path: Assets/Project/Scenes/FinalLevels/Level17.unity
+    guid: 63f334160025448008d866b0a5346162
+  m_configObjects: {}
